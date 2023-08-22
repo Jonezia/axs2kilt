@@ -16,7 +16,6 @@ Import this repos into your work_collection
 axs byquery git_repo,collection,repo_name=axs2tensorrt
 axs byquery git_repo,collection,repo_name=axs2kilt
 axs byquery git_repo,collection,repo_name=axs2tensorrt
-axs byquery git_repo,collection,repo_name=axs2kilt
 axs byquery git_repo,collection,repo_name=axs2mlperf
 axs byquery git_repo,repo_name=kilt-mlperf
 ```
